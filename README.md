@@ -54,7 +54,7 @@ content='''<!doctype html>
     padding:10px;
     text-align:center;
     }
-    </style>
+</style>
 </head>
 <body>
 <center><h1 style="font-family: cursive;"><u>TCP/IP PROTOCOLS</u></h1><br>
